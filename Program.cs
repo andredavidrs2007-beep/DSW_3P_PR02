@@ -15,8 +15,11 @@ builder.Services.AddScoped<IEventoRepository, EventoJsonRepository>();
 builder.Services.AddScoped<IEventoService, EventoService>();
 
 //Configuracion de SQL Server
-
-
+// builder.Services.AddDbContext<AppDbContext>(options =>
+//     options.UseSqlServer(
+//         builder.Configuration.GetConnectionString("SqlServerConnection")
+//     )
+// );
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

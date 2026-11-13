@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DSW_3P_PR02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cec1bb102a8f6849f1cf3350b31ee19e47cd728e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DSW_3P_PR02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DSW_3P_PR02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

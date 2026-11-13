@@ -1,6 +1,5 @@
 C:\Universidad\Tercer Semestre\Desarrollo de Servicio Web\DSW\Parcial3\DSW_3P_PR02\bin\Debug\net10.0\appsettings.Development.json
 C:\Universidad\Tercer Semestre\Desarrollo de Servicio Web\DSW\Parcial3\DSW_3P_PR02\bin\Debug\net10.0\appsettings.json
-C:\Universidad\Tercer Semestre\Desarrollo de Servicio Web\DSW\Parcial3\DSW_3P_PR02\bin\Debug\net10.0\data\eventos.json
 C:\Universidad\Tercer Semestre\Desarrollo de Servicio Web\DSW\Parcial3\DSW_3P_PR02\bin\Debug\net10.0\DSW_3P_PR02.staticwebassets.endpoints.json
 C:\Universidad\Tercer Semestre\Desarrollo de Servicio Web\DSW\Parcial3\DSW_3P_PR02\bin\Debug\net10.0\DSW_3P_PR02.exe
 C:\Universidad\Tercer Semestre\Desarrollo de Servicio Web\DSW\Parcial3\DSW_3P_PR02\bin\Debug\net10.0\DSW_3P_PR02.deps.json
@@ -33,3 +32,5 @@ C:\Universidad\Tercer Semestre\Desarrollo de Servicio Web\DSW\Parcial3\DSW_3P_PR
 C:\Universidad\Tercer Semestre\Desarrollo de Servicio Web\DSW\Parcial3\DSW_3P_PR02\obj\Debug\net10.0\DSW_3P_PR02.pdb
 C:\Universidad\Tercer Semestre\Desarrollo de Servicio Web\DSW\Parcial3\DSW_3P_PR02\obj\Debug\net10.0\DSW_3P_PR02.genruntimeconfig.cache
 C:\Universidad\Tercer Semestre\Desarrollo de Servicio Web\DSW\Parcial3\DSW_3P_PR02\obj\Debug\net10.0\ref\DSW_3P_PR02.dll
+C:\Universidad\Tercer Semestre\Desarrollo de Servicio Web\DSW\Parcial3\DSW_3P_PR02\bin\Debug\net10.0\data\Eventoes.json
+C:\Universidad\Tercer Semestre\Desarrollo de Servicio Web\DSW\Parcial3\DSW_3P_PR02\obj\Debug\net10.0\DSW_3P_PR02.sourcelink.json

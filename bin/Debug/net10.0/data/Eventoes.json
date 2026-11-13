@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Cumplea\u00F1os Moises",
+    "Categoria": "Adolescentes",
+    "Fecha": "2027-11-12T23:48:12.813Z",
+    "Lugar": "Irapuato",
+    "CupoMaximo": 100,
+    "Activo": true
+  }
+]
